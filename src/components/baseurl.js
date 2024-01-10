@@ -1,0 +1,1 @@
+export const baseurl = 'https://course-io-backend.onrender.com'
